@@ -51,8 +51,9 @@
 	  <PackageReference Include="Syncfusion.Blazor.TreeGrid" Version="24.2.3" />
 	  <PackageReference Include="Syncfusion.Licensing" Version="24.2.3" />
 	  <PackageReference Include="Toolbelt.Blazor.SpeechSynthesis" Version="10.3.1" />
-	  <PackageReference Include="DevExpress.DataAccess" Version="23.2.5" />
-	  <PackageReference Include="DevExpress.Blazor" Version="23.2.5" />
+	  <PackageReference Include="DevExpress.DataAccess" Version="23.2.6" />
+	  <PackageReference Include="DevExpress.Blazor" Version="23.2.6" />
+	  
   </ItemGroup>
 
   <ItemGroup>
